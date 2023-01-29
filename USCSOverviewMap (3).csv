@@ -1,0 +1,53 @@
+Area,Cancer Type,Year,Sex,Race,Type,Age-Adjusted Rate,Death Count,Population
+Wyoming,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.4,62,284406
+North Dakota,Female Breast,2019,Female,All Races and Ethnicities,Mortality,14.7,67,372678
+Alaska,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.4,68,350790
+Vermont,Female Breast,2019,Female,All Races and Ethnicities,Mortality,15.9,79,315738
+District of Columbia,Female Breast,2019,Female,All Races and Ethnicities,Mortality,24.3,97,372393
+South Dakota,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18,107,439553
+Delaware,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.4,141,504571
+Rhode Island,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.2,142,543197
+Montana,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.7,156,531486
+Maine,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.7,192,686674
+Hawaii,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.5,193,706419
+New Hampshire,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.7,201,686814
+Idaho,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.5,202,891995
+Nebraska,Female Breast,2019,Female,All Races and Ethnicities,Mortality,22.3,276,967601
+West Virginia,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.8,284,906103
+Utah,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.1,285,1589845
+New Mexico,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.9,288,1060654
+Arkansas,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.2,375,1538076
+Iowa,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.1,396,1586636
+Kansas,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.8,411,1462080
+Puerto Rico,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.2,425,1677955
+Mississippi,Female Breast,2019,Female,All Races and Ethnicities,Mortality,21.9,433,1534587
+Connecticut,Female Breast,2019,Female,All Races and Ethnicities,Mortality,16.7,440,1826990
+Nevada,Female Breast,2019,Female,All Races and Ethnicities,Mortality,23.7,440,1541266
+Oklahoma,Female Breast,2019,Female,All Races and Ethnicities,Mortality,21.4,539,1999160
+Oregon,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.6,573,2126006
+Colorado,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.6,605,2857610
+Minnesota,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.3,650,2830663
+Kentucky,Female Breast,2019,Female,All Races and Ethnicities,Mortality,22.1,657,2269036
+Louisiana,Female Breast,2019,Female,All Races and Ethnicities,Mortality,21.9,667,2385969
+Wisconsin,Female Breast,2019,Female,All Races and Ethnicities,Mortality,17.6,695,2925732
+Alabama,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.4,711,2536133
+South Carolina,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.7,751,2659704
+Massachusetts,Female Breast,2019,Female,All Races and Ethnicities,Mortality,15.3,758,3548380
+Maryland,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.3,789,3122480
+Missouri,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.1,810,3127846
+Indiana,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.3,847,3411571
+Arizona,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.3,900,3669041
+Washington,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.3,916,3802546
+Tennessee,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.6,968,3498429
+Virginia,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.9,1111,4345858
+New Jersey,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20,1253,4545698
+Georgia,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.1,1302,5462335
+North Carolina,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.2,1355,5393755
+Michigan,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.9,1389,5066743
+Ohio,Female Breast,2019,Female,All Races and Ethnicities,Mortality,21.1,1744,5962634
+Illinois,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20.7,1758,6443120
+Pennsylvania,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.5,1879,6526489
+New York,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.2,2491,10012065
+Texas,Female Breast,2019,Female,All Races and Ethnicities,Mortality,20,3145,14591903
+Florida,Female Breast,2019,Female,All Races and Ethnicities,Mortality,19.1,3155,10987074
+California,Female Breast,2019,Female,All Races and Ethnicities,Mortality,18.7,4527,19829085
